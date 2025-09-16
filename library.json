@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Python crash course",
+        "author": "Eric Matthes",
+        "year": "2019"
+    },
+    {
+        "title": "C Programming Language",
+        "author": "Brian W. Kernighan & Dennis Ritchie",
+        "year": "1978"
+    },
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas",
+        "year": "2009"
+    },
+    {
+        "title": "Clean code",
+        "author": "Robert C. Martin",
+        "year": "2008"
+    }
+]
